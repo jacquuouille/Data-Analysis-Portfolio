@@ -8,10 +8,11 @@ I am passionate about translating data into meaningful insights. Whether working
 I have been working as a data analyst for **more than 5 years**, working across diverses industries such as TV, Radio, mobile gaming and travel.
 
 
+
 ## Porfolio projects
 In this section I will list data analytics projects, providing a brief description of the technology stack used to solve cases.
 
-## **Subscription Analysis Dashboard**
+### **Subscription Analysis Dashboard**
 **Goal:** Providing a comprehensive view of business performance to help tracking subscriber trends, identifying churn patterns, and optimizing customer retention and overall growth.
 
 **Dashboard:** [MavenFlix Subscription Analysis Dashboard](https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od)
