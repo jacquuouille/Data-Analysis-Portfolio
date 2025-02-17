@@ -17,7 +17,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **Dashboard:** [MavenFlix Subscription Analysis Dashboard](https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od)
 
-**Code:**
+**Code:** [MavenFlix Subscription Analysis Dashboard.sql](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/subscription_analysis.sql)
 
 **Description:** The public dataset contains subscription records for MavenFlix, a fictitious video streaming platform, from September 2022 through September 2023. Each record represents an individual customer's subscription, including the subscription cost, created/canceled date, interval, and payment status.
 
