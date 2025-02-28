@@ -30,3 +30,5 @@ In this section I will list data analytics projects, providing a brief descripti
 **Skills**: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
 
 **Technology**: PostgreSQL, Looker Studio
+
+**Data**: [Streaming Video Subscription](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=5&pageSize=5) 
