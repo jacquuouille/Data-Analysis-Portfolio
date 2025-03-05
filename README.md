@@ -27,7 +27,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **Description:** The public dataset contains subscription records for MavenFlix, a fictitious video streaming platform, from September 2022 through September 2023. Each record represents an individual customer's subscription, including the subscription cost, created/canceled date, interval, and payment status.
 
-**Skills**: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
+**Skills**: Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
 
 **Technology**: PostgreSQL, Looker Studio
 
