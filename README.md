@@ -13,7 +13,7 @@ I have been working as a data analyst for **more than 5 years**, working across 
 ## Porfolio projects
 In this section I will list data analytics projects, providing a brief description of the technology stack used to solve cases.
 
-- [Booking Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#subscription-analysis-dashboard)
+- [Booking Analysis Dashboard]((https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#booking-analysis-dashboard))
 
 - [Subscription Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#subscription-analysis-dashboard)
 
