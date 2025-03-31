@@ -23,17 +23,21 @@ In this section I will list data analytics projects, providing a brief descripti
 ### **Booking Analysis Dashboard**
 **Goal:** Providing a comprehensive view of booking analysis and visualization for National Rail in the UK, helping track purchase trends, analyze Railcard usage, and identify refund patterns.
 
-**Dashboard:** [UK Rail Train Booking Analysis Dashboard]([https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od](https://app.powerbi.com/view?r=eyJrIjoiOTMwOTllMWItNzQ4Mi00MWI5LTg0NWQtMGNiMWQ5MjRiODQwIiwidCI6IjdkNDg3NDc4LWNhMjYtNDkxOS05MDlhLTBjNDU3MTQyYzczNCJ9&pageName=54e34d8c24a1d920c519))
+**Dashboard:** [UK National Rail Booking Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMwOTllMWItNzQ4Mi00MWI5LTg0NWQtMGNiMWQ5MjRiODQwIiwidCI6IjdkNDg3NDc4LWNhMjYtNDkxOS05MDlhLTBjNDU3MTQyYzczNCJ9&pageName=54e34d8c24a1d920c519)
 
-**Code:** [`MavenFlix Subscription Analysis Dashboard.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/subscription_analysis.sql)
+**Ad-hoc Analysis:** [Early Bookings Analysis.pdf](https://www.dropbox.com/scl/fi/ljyy3wfl1ydabcjlms888/Early-Bookings-Analysis-Jacques-Hervochon.pdf?rlkey=avhdyzsh31i9j7d9dc71fnqf2&st=i0wp7yex&dl=0)
 
-**Description:** The public dataset contains subscription records for MavenFlix, a fictitious video streaming platform, from September 2022 through September 2023. Each record represents an individual customer's subscription, including the subscription cost, created/canceled date, interval, and payment status.
+**Python Script:** [`UK National Rail Data Import.py`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/booking_analysis.py)
+
+**SQL Code:** [`UK National Rail Booking Analysis.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/booking_analysis.sql)
+
+**Description:** The public dataset includes booking records for National Rail in the UK from December 2023 to April 2024. Each record represents a customer’s ticket purchase, containing details such as the purchase date, travel date, price, origin, destination, and refund status.
 
 **Skills**: Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
 
 **Technology**: PostgreSQL, Looker Studio
 
-**Data**: [Streaming Video Subscription](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=5&pageSize=5) 
+**Data**: [UK Natinal Rain](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
 
 --
 
@@ -42,7 +46,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **Dashboard:** [MavenFlix Subscription Analysis Dashboard](https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od)
 
-**Code:** [`MavenFlix Subscription Analysis Dashboard.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/subscription_analysis.sql)
+**Code:** [`MavenFlix Subscription Analysis.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/subscription_analysis.sql)
 
 **Description:** The public dataset contains subscription records for MavenFlix, a fictitious video streaming platform, from September 2022 through September 2023. Each record represents an individual customer's subscription, including the subscription cost, created/canceled date, interval, and payment status.
 
