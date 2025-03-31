@@ -33,9 +33,9 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **Description:** The public dataset includes booking records for National Rail in the UK from December 2023 to April 2024. Each record represents a customer’s ticket purchase, containing details such as the purchase date, travel date, price, origin, destination, and refund status.
 
-**Skills**: Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
+**Skills**: DAX, Dynamic Percentage Comparison Metric, Data Modelling, Bookmarks, Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
 
-**Technology**: PostgreSQL, Looker Studio
+**Technology**: PowerBI, SQL, Python  
 
 **Data**: [UK Natinal Rain](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
 
