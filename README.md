@@ -37,7 +37,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **Technology**: PowerBI, SQL, Python  
 
-**Data**: [UK Natinal Rain](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
+**Data**: [UK National Rain](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
 
 --
 
