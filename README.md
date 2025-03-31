@@ -17,8 +17,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 - [Subscription Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#subscription-analysis-dashboard)
 
-
-
+--
 
 ### **Subscription Analysis Dashboard**
 **Goal:** Providing a comprehensive view of business performance to help tracking subscriber trends, identifying churn patterns, and optimizing customer retention and overall growth.
@@ -35,6 +34,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **Data**: [Streaming Video Subscription](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=5&pageSize=5) 
 
+--
 
 ### **Booking Analysis Dashboard**
 **Goal:** Providing a comprehensive view of business performance to help tracking subscriber trends, identifying churn patterns, and optimizing customer retention and overall growth.
