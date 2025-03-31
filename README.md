@@ -19,10 +19,11 @@ In this section I will list data analytics projects, providing a brief descripti
 
 --
 
-### **Subscription Analysis Dashboard**
-**Goal:** Providing a comprehensive view of business performance to help tracking subscriber trends, identifying churn patterns, and optimizing customer retention and overall growth.
 
-**Dashboard:** [MavenFlix Subscription Analysis Dashboard](https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od)
+### **Booking Analysis Dashboard**
+**Goal:** Providing a comprehensive view of booking analysis and visualization for National Rail in the UK, helping track purchase trends, analyze Railcard usage, and identify refund patterns.
+
+**Dashboard:** [UK Rail Train Booking Analysis Dashboard]([https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od](https://app.powerbi.com/view?r=eyJrIjoiOTMwOTllMWItNzQ4Mi00MWI5LTg0NWQtMGNiMWQ5MjRiODQwIiwidCI6IjdkNDg3NDc4LWNhMjYtNDkxOS05MDlhLTBjNDU3MTQyYzczNCJ9&pageName=54e34d8c24a1d920c519))
 
 **Code:** [`MavenFlix Subscription Analysis Dashboard.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/subscription_analysis.sql)
 
@@ -36,7 +37,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 --
 
-### **Booking Analysis Dashboard**
+### **Subscription Analysis Dashboard**
 **Goal:** Providing a comprehensive view of business performance to help tracking subscriber trends, identifying churn patterns, and optimizing customer retention and overall growth.
 
 **Dashboard:** [MavenFlix Subscription Analysis Dashboard](https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od)
