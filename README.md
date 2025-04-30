@@ -31,11 +31,11 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **SQL Code:** [`UK National Rail Booking Analysis.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/booking_analysis.sql)
 
-**Data Model:** [`Star Schema Data Model`](https://www.dropbox.com/scl/fi/51tl1racy1dxtdgf7fwaq/Booking-Analysis-Dashboard-Data-Model.png?rlkey=hq6kf8k0tra39hfq0bqvsohde&st=jwhlaaie&dl=0)
+**Data Model:** [`Star Schema Data Model`](https://www.dropbox.com/scl/fi/e3pguiewygrn9jqec2d43/Booking-Analysis-Dashboard-Data-Model.png?rlkey=7vae80whp9s0w06s2fndwpnht&st=rzayzkcy&dl=0)
 
 **Description:** The public dataset includes booking records for National Rail in the UK from December 2023 to April 2024. Each record represents a customer’s ticket purchase, containing details such as the purchase date, travel date, price, origin, destination, and refund status.
 
-**Skills**: DAX, Dynamic Percentage Comparison Metric, Data Modelling, Bookmarks, Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
+**Skills**: DAX, Star Schema Data Model, Dynamic Percentage Comparison Metric, Data Modelling, Bookmarks, Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
 
 **Technology**: PowerBI, SQL (PostgreSQL), Python  
 
