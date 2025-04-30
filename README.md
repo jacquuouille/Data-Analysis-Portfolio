@@ -31,6 +31,8 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **SQL Code:** [`UK National Rail Booking Analysis.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/booking_analysis.sql)
 
+**Data Model:** [`UK National Rail Booking Analysis.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/booking_analysis.sql)
+
 **Description:** The public dataset includes booking records for National Rail in the UK from December 2023 to April 2024. Each record represents a customer’s ticket purchase, containing details such as the purchase date, travel date, price, origin, destination, and refund status.
 
 **Skills**: DAX, Dynamic Percentage Comparison Metric, Data Modelling, Bookmarks, Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
