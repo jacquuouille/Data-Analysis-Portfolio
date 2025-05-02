@@ -2,11 +2,11 @@
 
 ## About
 
-Hi, my name is Jacques, a **business intelligence analyst** with a background in computer science analytics.
+Hi, my name is Jacques, and I'm a **Business Intelligence Analyst** with a background in computer science analytics.
 
-I am passionate about translating data into meaningful insights. Whether working on a team or independently, I thrive on uncovering new insights and solve complex problems. I also love using my creativity to design and develop automated business intelligence tools.
+I am passionate about translating data into meaningful insights. Whether working on a team or independently, I thrive on uncovering new patterns and solve complex problems. I also enjoy using my creativity to design and develop automated business intelligence tools.
 
-I have been working as a data analyst for **more than 5 years**, working across diverses industries such as TV, Radio, mobile gaming and travel.
+**With over 5 years of experience in data analytics across multiplies countries**, I have worked in diverse industries including TV, radio, mobile gaming and travel.
 
 
 
