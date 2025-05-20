@@ -37,7 +37,7 @@ In this section I will list data analytics projects, providing a brief descripti
 
 **Skills**: DAX, Star Schema Data Model, Dynamic Percentage Comparison Metric, Data Modelling, Bookmarks, Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
 
-**Technology**: PowerBI, SQL (PostgreSQL), Python  
+**Technology**: Power BI, SQL (PostgreSQL), Python  
 
 **Data**: [UK National Rain](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
 
