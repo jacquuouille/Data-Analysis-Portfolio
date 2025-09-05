@@ -14,7 +14,7 @@ Want to connect? Just book a time here >> https://calendly.com/jacqueshervochon/
 
 
 ## Porfolio projects
-In this section I will list data analytics projects, providing a brief description of the technology stack used to solve cases.
+In this section, I list my data analytics projects, along with an overview of the technology stack used to tackle each case.
 
 - [Booking Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#booking-analysis-dashboard)
 
