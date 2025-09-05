@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Jacques, a Data Analyst with a background in computer science analytics.
+Hi there! I'm Jacques, a Data Analyst with a background in computer science analytics.
 
 I'm passionate about translating data into meaningful insights, and love building automated business intelligence tools.  
 
