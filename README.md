@@ -2,12 +2,15 @@
 
 ## About
 
-Hi, my name is Jacques, and I'm a **Business Intelligence Analyst** with a background in computer science analytics.
+Hi, I'm Jacques, a Data Analyst with a background in computer science analytics.
 
-I am passionate about translating data into meaningful insights. Whether working on a team or independently, I thrive on uncovering new patterns and solve complex problems. I also enjoy using my creativity to design and develop automated business intelligence tools.
+I'm passionate about translating data into meaningful insights, and love building automated business intelligence tools.  
 
-**With over 5 years of experience in data analytics across multiplies countries**, I have worked in diverse industries including TV, radio, mobile gaming and travel.
+**With over 7 years of experience in data analytics across multiplies countries (TV, radio, mobile gaming and travel)**, I help companies create dashboards that support cross-team decision-making and perform ad-hoc analyses to guide business strategy (SQL, Power BI, DAX, Looker Studio, Metabase, Python). 
 
+I love traveling and meeting new people around the globe. Experiencing new cultures allows me to be in touch with different ways of life and mindsets.
+
+Want to connect? Just book a time here >> https://calendly.com/jacqueshervochon/30min 
 
 
 ## Porfolio projects
