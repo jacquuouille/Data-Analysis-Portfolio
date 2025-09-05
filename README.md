@@ -20,6 +20,8 @@ In this section I will list data analytics projects, providing a brief descripti
 
 - [Subscription Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#subscription-analysis-dashboard)
 
+- Sentiment Analysis Dashboard (coming soon! 🚀)
+
 --
 
 
