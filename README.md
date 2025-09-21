@@ -14,35 +14,11 @@ Want to connect? Just book a time here >> https://calendly.com/jacqueshervochon/
 ## Porfolio projects
 In this section, I list my data analytics projects, along with an overview of the technology stack used to tackle each case.
 
-- [Booking Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#booking-analysis-dashboard)
+- [Booking Analysis Dashboard](https://github.com/jacquuouille/powerbi_booking_analysis)) → Analyzing UK National Rail bookings with a focus on purchase trends, railcard usage, and refund patterns.
 
 - [Subscription Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#subscription-analysis-dashboard)
 
 - [Sentiment Analysis Dashboard](https://github.com/jacquuouille/metabase_sentiment_analysis/tree/main) → Providing a comprehensive view of reviews to uncover patterns in satisfaction, motivations and frustrations, with a focus on subjectivity to helps separate between factual and opinion-driven sentiment.
-
---
-
-
-### **Booking Analysis Dashboard**
-**Goal:** Providing a comprehensive view of booking analysis and visualization for National Rail in the UK, helping track purchase trends, analyze Railcard usage, and identify refund patterns.
-
-**Dashboard:** [UK National Rail Booking Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhjMGJhYWYtYWE4Ny00YWQ0LWJlNjAtNzQ2Yjk4YmQzZGQzIiwidCI6IjdkNDg3NDc4LWNhMjYtNDkxOS05MDlhLTBjNDU3MTQyYzczNCJ9&pageName=54e34d8c24a1d920c519)
-
-**Ad-hoc Analysis:** [Early Bookings Analysis.pdf](https://www.dropbox.com/scl/fi/ljyy3wfl1ydabcjlms888/Early-Bookings-Analysis-Jacques-Hervochon.pdf?rlkey=avhdyzsh31i9j7d9dc71fnqf2&st=i0wp7yex&dl=0)
-
-**Python Script:** [`UK National Rail Data Import.py`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/booking_analysis.py)
-
-**SQL Code:** [`UK National Rail Booking Analysis.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/booking_analysis.sql)
-
-**Data Model:** [`Star Schema Data Model`](https://www.dropbox.com/scl/fi/e3pguiewygrn9jqec2d43/Booking-Analysis-Dashboard-Data-Model.png?rlkey=7vae80whp9s0w06s2fndwpnht&st=rzayzkcy&dl=0)
-
-**Description:** The public dataset includes booking records for National Rail in the UK from December 2023 to April 2024. Each record represents a customer’s ticket purchase, containing details such as the purchase date, travel date, price, origin, destination, and refund status.
-
-**Skills**: DAX, Star Schema Data Model, Dynamic Percentage Comparison Metric, Data Modelling, Bookmarks, Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
-
-**Technology**: Power BI, SQL (PostgreSQL), Python  
-
-**Data**: [UK National Rain](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
 
 --
 
