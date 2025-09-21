@@ -16,23 +16,6 @@ Take a look at the data analytics projects below, each paired with the technolog
 
 - **🚄 [Booking Analysis Dashboard](https://github.com/jacquuouille/powerbi_booking_analysis)** → analyzing UK National Rail bookings with a focus on purchase trends, railcard usage, and refund patterns.
 
-- **[Subscription Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#subscription-analysis-dashboard)**
+- **📺 [Subscription Analysis Dashboard](https://github.com/jacquuouille/looker_studio_subscription/tree/main)** → providing a comprehensive view of subscribers behaviour, highlighting subscription trends, engagement patterns, and retention metrics.
 
 - **🧑‍🧑‍🧒‍🧒 [Sentiment Analysis Dashboard](https://github.com/jacquuouille/metabase_sentiment_analysis/tree/main)** → providing a comprehensive view of reviews to uncover patterns in satisfaction, motivations and frustrations, with a focus on subjectivity to helps separate between factual and opinion-driven sentiment.
-
---
-
-### **Subscription Analysis Dashboard**
-**Goal:** Providing a comprehensive view of business performance to help tracking subscriber trends, identifying churn patterns, and optimizing customer retention and overall growth.
-
-**Dashboard:** [MavenFlix Subscription Analysis Dashboard](https://lookerstudio.google.com/reporting/88314616-5a91-46d5-b720-d92d717b3196/page/p_jiovlfg6od)
-
-**Code:** [`MavenFlix Subscription Analysis.sql`](https://github.com/jacquuouille/Data-Analysis-Code/blob/main/subscription_analysis.sql)
-
-**Description:** The public dataset contains subscription records for MavenFlix, a fictitious video streaming platform, from September 2022 through September 2023. Each record represents an individual customer's subscription, including the subscription cost, created/canceled date, interval, and payment status.
-
-**Skills**: Joins, CTE's, Temp Tables, Views, Windows Functions, Aggregate Functions, Converting Data Types
-
-**Technology**: SQL (PostgreSQL), Looker Studio
-
-**Data**: [Streaming Video Subscription](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=5&pageSize=5) 
