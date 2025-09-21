@@ -8,7 +8,7 @@ Hi there! I'm Jacques, a Data Analyst with a background in computer science anal
 
 I love traveling and meeting new people around the globe. Experiencing new cultures allows me to be in touch with different ways of life and mindsets.
 
-Want to connect? Just book a time **[here](https://calendly.com/jacqueshervochon/30min)**
+Want to connect? Just book a time [here](https://calendly.com/jacqueshervochon/30min) and let's chat! 
 
 
 ## Porfolio projects
