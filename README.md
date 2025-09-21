@@ -14,11 +14,11 @@ Want to connect? Just book a time here >> https://calendly.com/jacqueshervochon/
 ## Porfolio projects
 In this section, I list my data analytics projects, along with an overview of the technology stack used to tackle each case.
 
-- [Booking Analysis Dashboard](https://github.com/jacquuouille/powerbi_booking_analysis)) → Analyzing UK National Rail bookings with a focus on purchase trends, railcard usage, and refund patterns.
+- [🚄 Booking Analysis Dashboard](https://github.com/jacquuouille/powerbi_booking_analysis)) → Analyzing UK National Rail bookings with a focus on purchase trends, railcard usage, and refund patterns.
 
 - [Subscription Analysis Dashboard](https://github.com/jacquuouille/Data-Analysis-Portfolio/blob/main/README.md#subscription-analysis-dashboard)
 
-- [Sentiment Analysis Dashboard](https://github.com/jacquuouille/metabase_sentiment_analysis/tree/main) → Providing a comprehensive view of reviews to uncover patterns in satisfaction, motivations and frustrations, with a focus on subjectivity to helps separate between factual and opinion-driven sentiment.
+- [🧑‍🧑‍🧒‍🧒 Sentiment Analysis Dashboard](https://github.com/jacquuouille/metabase_sentiment_analysis/tree/main) → Providing a comprehensive view of reviews to uncover patterns in satisfaction, motivations and frustrations, with a focus on subjectivity to helps separate between factual and opinion-driven sentiment.
 
 --
 
