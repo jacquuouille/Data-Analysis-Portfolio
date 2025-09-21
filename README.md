@@ -12,7 +12,7 @@ Want to connect? Just book a time [here](https://calendly.com/jacqueshervochon/3
 
 
 ## Porfolio projects
-In this section, I list my data analytics projects, along with an overview of the technology stack used to tackle each case.
+Take a look at the data analytics projects below, each paired with the technology stack used for each case.
 
 - **[🚄 Booking Analysis Dashboard](https://github.com/jacquuouille/powerbi_booking_analysis)** → Analyzing UK National Rail bookings with a focus on purchase trends, railcard usage, and refund patterns.
 
