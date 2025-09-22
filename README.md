@@ -18,4 +18,4 @@ Take a look at the data analytics projects below, each paired with the technolog
 
 - **📺 [[Looker Studio] Subscription Analysis Dashboard](https://github.com/jacquuouille/looker_studio_subscription/tree/main)** → providing a comprehensive view of subscribers behaviour, highlighting subscription trends, engagement patterns, and retention metrics.
 
-- **🧑‍🧑‍🧒‍🧒 [[Metabase] Sentiment Analysis Dashboard](https://github.com/jacquuouille/metabase_sentiment_analysis/tree/main)** → providing a comprehensive view of reviews to uncover patterns in satisfaction, motivations and frustrations, with a focus on subjectivity to helps separate between factual and opinion-driven sentiment.
+- **🧑‍🧑‍🧒‍🧒 [[Metabase] Sentiment Analysis Dashboard](https://github.com/jacquuouille/metabase_sentiment_analysis/tree/main)** → delivering a comprehensive view of reviews to uncover patterns in satisfaction, motivations and frustrations, with a focus on subjectivity to helps separate between factual and opinion-driven sentiment.
