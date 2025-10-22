@@ -2,7 +2,7 @@
 
 ## About
 
-Hi there! I'm Jacques, a Data Analyst with a background in computer science analytics. I'm passionate about translating data into meaningful insights, and love building automated business intelligence tools.  
+Hi there! I'm Jacques, a Senio Data Analyst with a background in computer science analytics. I'm passionate about translating data into meaningful insights, and love building automated business intelligence tools.  
 
 **With over 7 years of experience in data analytics across multiplies countries, I help companies create dashboards that support cross-team decision-making** and perform ad-hoc analyses to guide business strategy (SQL, Power BI, Metabase, Looker Studio).
 
