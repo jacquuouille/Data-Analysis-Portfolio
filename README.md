@@ -14,7 +14,7 @@ Want to connect? Just book a time [here](https://calendly.com/jacqueshervochon/3
 ## Porfolio projects
 Take a look at the data analytics projects below, each paired with the technology stack used for each case.
 
-- **☕️ [[Power BI] Offer Campaign Analysis Dashboard](https://github.com/jacquuouille/powerbi_promotional_campaign/tree/main?tab=readme-ov-file))** → analyzing customer engagement in the coffee shop’s offer campaign.
+- **☕️ [[Power BI] Offer Campaign Analysis Dashboard](https://github.com/jacquuouille/powerbi_promotional_campaign/tree/main?tab=readme-ov-file)** → analyzing customer engagement in the coffee shop’s offer campaign.
 
 - **🚄 [[Power BI] Booking Analysis Dashboard](https://github.com/jacquuouille/powerbi_booking_analysis)** → analyzing UK National Rail bookings with a focus on purchase trends, railcard usage, and refund patterns.
 
